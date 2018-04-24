@@ -5,7 +5,7 @@ GeoJSON & TopoJSON
 >**Student:** Aradia Farmer | **Instructor:** Bo Zhao | **Due date:** 4/23/2018
 
 The purpose of this exercise is to learn how to convert raw geospatial data
-from a shapefile into jeojson and topojson format.
+from a shapefile into geojson and topojson format.
 
 Because my team's final project is about events in Oregon, I used the tutorial's suggested dataset
 of Oregon counties.
