@@ -9,5 +9,6 @@ The purpose of this exercise is to convert raw geospatial data in jeojson and to
 Name | Size (kb)
 --------------------- | ---------------------
 oregon_counties.geojson | 7,779
-oregon_counties_simplified.json | 55
-oregon_counties_simplified_twice.json | 17
+oregon_counties.json | 55
+oregon_counties.topojson | 387
+
