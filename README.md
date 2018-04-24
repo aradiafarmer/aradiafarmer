@@ -2,9 +2,13 @@ GeoJSON & TopoJSON
 
 >Spring 2018 | Geography 472 | Quiz 3
 >
->**Student:** Aradia Farmer | **Instructor:** Bo Zhao | **Due date:** 5/1/2018
+>**Student:** Aradia Farmer | **Instructor:** Bo Zhao | **Due date:** 4/23/2018
 
-The purpose of this exercise is to convert raw geospatial data in jeojson and topojson format
+The purpose of this exercise is to learn how to convert raw geospatial data
+from a shapefile into jeojson and topojson format.
+
+Because my team's final project is about events in Oregon, I used the tutorial's suggested dataset
+of Oregon counties.
 
 Name | Size (kb)
 --------------------- | ---------------------
